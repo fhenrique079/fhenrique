@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou o Francisco H. Silva :D </h1>
+<h1> Olá! Eu sou o Francisco H. Silva </h1>
 <p>
   Tenho o curso de Técnico em Informática pela Instituição Federal da Bahia (IFBA). E atualmente, estou cursando a graduação de análise e desenvolvimento de sistemas pela Instituição Federal de São Paulo (IFSP).
 </p>
